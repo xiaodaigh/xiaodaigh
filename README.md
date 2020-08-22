@@ -10,7 +10,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | [JLBoost.jl](https://github.com/xiaodaigh/JLBoost.jl) | Julia | JLBoost.jl is 100%-Julia implementation of XGBoost-like gradient boosting regression trees |
 | [SortingLab.jl](https://github.com/xiaodaigh/SortingLab.jl) | Julia | Faster sorting algorithms in Julia including faster `String` sorting and `sortperm` (i.e. `order`) algorithms |
 
-##### Social Media
+#### Social Media
 
 | Platform | Handle |
 | -- | -- |
@@ -18,6 +18,22 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | LinkedIn | [daizj](https://www.linkedin.com/in/daizj/) |
 | Twitch | [evalprase](https://www.twitch.tv/evalprase) |
 | Youtube | [Data Science ZJ](https://www.youtube.com/channel/UCKxHtRdtFEPihEjTtjG8Y8w) |
+
+
+#### Awesome list
+
+| Category | Notes |
+| -- | -- |
+| [awesome-eda](https://github.com/xiaodaigh/awesome-eda) | Exploratory Data Analysis | 
+| [awesome-ml-fraemworks](https://github.com/xiaodaigh/awesome-ml-frameworks) | Machine Learning Framework | 
+| [awesome-data-science-notebook-engines](https://github.com/xiaodaigh/awesome-data-science-notebook-engines) | Data Science notebooks like Jupyter | 
+| [awesome-visual-flow-data-science](https://github.com/xiaodaigh/awesome-visual-flow-data-science) |  | 
+| [awesome-markdown-table-editors](https://github.com/xiaodaigh/awesome-markdown-table-editors) |  | 
+| [awesome-big-medium-data-frameworks](https://github.com/xiaodaigh/awesome-big-medium-data-frameworks) |  | 
+| [awesome-feature-engineering](https://github.com/xiaodaigh/awesome-feature-engineering) |  | 
+| [awesome-flow](https://github.com/xiaodaigh/awesome-flow) |  |
+
+
 
 
 <!--
