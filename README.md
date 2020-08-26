@@ -4,7 +4,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 
 #### Projects
 
-| Project | Langugage | Notes |
+| Project | Language | Notes |
 | -- | -- | -- |
 | [`{disk.frame}`](https://github.com/xiaodaigh/disk.frame) | R | {disk.frame} [https://diskframe.com](https://diskframe.com) is a larger-than-RAM data manipulation framework. It is also a Top 100 R package by number of Github Stars |
 | [JLBoost.jl](https://github.com/xiaodaigh/JLBoost.jl) | Julia | JLBoost.jl is 100%-Julia implementation of XGBoost-like gradient boosting regression trees |
