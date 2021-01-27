@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, my name is ZJ. I love contributing to the open-source data science community. I main code in R and Julia with a dash of Python and a minimal amount of Scala thrown in.
+Hi, my name is ZJ. I love contributing to the open-source data science community. I mainly code in R and Julia with a dash of Python and a minimal amount of Scala thrown in.
 
 #### Projects
 
