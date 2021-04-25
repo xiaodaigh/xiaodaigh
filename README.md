@@ -11,6 +11,8 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | [SortingLab.jl](https://github.com/xiaodaigh/SortingLab.jl) | Julia | Faster sorting algorithms in Julia including faster `String` sorting and `sortperm` (i.e. `order`) algorithms |
 | [JDF.jl](https://github.com/xiaodaigh/JDF.jl) | Julia | A fast DataFrames serialization format and package. |
 
+Focus areas, better NSE for disk.frame
+
 #### Social Media
 
 | Platform | Handle |
