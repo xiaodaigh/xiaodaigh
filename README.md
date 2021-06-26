@@ -9,16 +9,23 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | [`{disk.frame}`](https://github.com/xiaodaigh/disk.frame) | R | {disk.frame} [https://diskframe.com](https://diskframe.com) is a larger-than-RAM data manipulation framework. It is also a Top 100 R package by number of Github Stars |
 | [SortingLab.jl](https://github.com/xiaodaigh/SortingLab.jl) | Julia | Faster sorting algorithms in Julia including faster `String` sorting and `sortperm` (i.e. `order`) algorithms |
 | [JDF.jl](https://github.com/xiaodaigh/JDF.jl) | Julia | A fast DataFrames serialization format and package. |
-
+| [ShortStrings.jl](https://github.com/JuliaString/ShortStrings.jl) | Julia | A package that uses Integer (bits types) to store string more efficiently. Great for sorting and group-by operations. It's been handed over to the JuliaString org |
+| [TableScraper.jl](https://github.com/xiaodaigh/TableScraper.jl) | Julia | A simple scraper for well-formed tables from webapges |
 Focus areas, better NSE for disk.frame
 
-#### Social Media
+#### Social Media & websites 
 
-| Platform | Handle |
-| -- | -- |
+| Platform | Handle | Notes |
+| -- | -- | -- |
 | Twitter | [@evalparse](https://twitter.com/evalparse) |
 | LinkedIn | [daizj](https://www.linkedin.com/in/daizj/) |
 | Youtube | [Data Science ZJ](https://www.youtube.com/channel/UCKxHtRdtFEPihEjTtjG8Y8w) |
+| |       [Baduk Go Weiqi Ratings](http://daizj.net/baduk-go-weiqi-ratings/) | A ranking list of the professional Go player strengths estimated from the last 365 days of games |
+
+#### Interesting Projects I can no longer find time to maintain
+
+| [JLBoost.jl](https://github.com/xiaodaigh/JLBoost.jl) | Julia | A pure Julia implementation of XGBoost-like boosting trees |
+| [ShinySky](https://github.com/AnalytixWare/ShinySky) | R | A collection of Shiny widget. One of the earliest "popular" Shiny packages. |
 
 
 #### Awesome list
