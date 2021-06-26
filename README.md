@@ -24,6 +24,8 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 
 #### Interesting Projects I can no longer find time to maintain
 
+| Project | Language | Notes |
+| -- | -- | -- |
 | [JLBoost.jl](https://github.com/xiaodaigh/JLBoost.jl) | Julia | A pure Julia implementation of XGBoost-like boosting trees |
 | [ShinySky](https://github.com/AnalytixWare/ShinySky) | R | A collection of Shiny widget. One of the earliest "popular" Shiny packages. |
 
