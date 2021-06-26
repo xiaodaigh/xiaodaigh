@@ -11,7 +11,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | [JDF.jl](https://github.com/xiaodaigh/JDF.jl) | Julia | A fast DataFrames serialization format and package. |
 | [ShortStrings.jl](https://github.com/JuliaString/ShortStrings.jl) | Julia | A package that uses Integer (bits types) to store string more efficiently. Great for sorting and group-by operations. It's been handed over to the JuliaString org |
 | [TableScraper.jl](https://github.com/xiaodaigh/TableScraper.jl) | Julia | A simple scraper for well-formed tables from webapges |
-Focus areas, better NSE for disk.frame
+
 
 #### Social Media & websites 
 
