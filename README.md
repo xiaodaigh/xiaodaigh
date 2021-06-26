@@ -15,7 +15,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 
 #### Social Media & websites 
 
-| Platform | Handle | Notes |
+| Platform | Handle/URL | Notes |
 | -- | -- | -- |
 | Twitter | [@evalparse](https://twitter.com/evalparse) |
 | LinkedIn | [daizj](https://www.linkedin.com/in/daizj/) |
