@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, my name is ZJ. I love contributing to the open-source data science community. I mainly code in R and Julia with a dash of Python and a minimal amount of Scala thrown in.
+Hi, my name is ZJ. I love contributing to the open-source data science community. I mainly code in R and Julia with a dash of Python and a minimal amount of Scala thrown in. 
 
 #### Projects
 
@@ -11,6 +11,11 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | [JDF.jl](https://github.com/xiaodaigh/JDF.jl) | Julia | A fast DataFrames serialization format and package. |
 | [ShortStrings.jl](https://github.com/JuliaString/ShortStrings.jl) | Julia | A package that uses Integer (bits types) to store string more efficiently. Great for sorting and group-by operations. It's been handed over to the JuliaString org |
 | [TableScraper.jl](https://github.com/xiaodaigh/TableScraper.jl) | Julia | A simple scraper for well-formed tables from webapges |
+| [PkgVersionHelper.jl](https://github.com/xiaodaigh/PkgVersionHelper.jl) | Julia | A one function, `upcheck()`, package for checking if your Project.toml contains the most up-to-date packages |
+| [DataConvenience.jl](https://github.com/xiaodaigh/DataConvenience.jl) | Julia | Some convenience functions for data manipulation and data related tasks |
+| [CuCountMap](https://github.com/xiaodaigh/CuCountMap.jl) | Julia | Fast CUDA.jl based `countmap` of small types e.g. UInt8 |
+
+**Other contriutions**: I wrote the parquet writer in Parquet.jl. I have also contributed a fast `countmap` in StatsBase.jl for small type.
 
 
 #### Social Media & websites 
