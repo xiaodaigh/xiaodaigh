@@ -30,7 +30,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | [ShinySky](https://github.com/AnalytixWare/ShinySky) | R | A collection of Shiny widget. One of the earliest "popular" Shiny packages. |
 
 
-#### Awesome list
+#### Awesome lists
 
 | Category | Notes |
 | -- | -- |
