@@ -18,7 +18,6 @@ Focus areas, better NSE for disk.frame
 | -- | -- |
 | Twitter | [@evalparse](https://twitter.com/evalparse) |
 | LinkedIn | [daizj](https://www.linkedin.com/in/daizj/) |
-| Twitch | [evalprase](https://www.twitch.tv/evalprase) |
 | Youtube | [Data Science ZJ](https://www.youtube.com/channel/UCKxHtRdtFEPihEjTtjG8Y8w) |
 
 
