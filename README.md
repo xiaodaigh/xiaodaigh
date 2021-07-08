@@ -33,7 +33,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | -- | -- | -- |
 | [JLBoost.jl](https://github.com/xiaodaigh/JLBoost.jl) | Julia | A pure Julia implementation of XGBoost-like boosting trees |
 | [ShinySky](https://github.com/AnalytixWare/ShinySky) | R | A collection of Shiny widget. One of the earliest "popular" Shiny packages. |
-
+| [FastGroupBy](https://github.com/xiaodaigh/FastGroupBy.jl) | Julia | A fast group by functionality. I shared the ideas I had with the main developer of DataFrames.jl and DataFrames.jl were onto the same kind of ideas anyway, so they ended up optimizing the group-by. This makes it unnecesssary to keep maintaining the package. |
 
 #### Awesome lists
 
