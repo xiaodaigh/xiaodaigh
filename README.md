@@ -14,7 +14,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | [PkgVersionHelper.jl](https://github.com/xiaodaigh/PkgVersionHelper.jl) | Julia | A one function, `upcheck()`, package for checking if your Project.toml contains the most up-to-date packages |
 | [DataConvenience.jl](https://github.com/xiaodaigh/DataConvenience.jl) | Julia | Some convenience functions for data manipulation and data related tasks |
 | [CuCountMap](https://github.com/xiaodaigh/CuCountMap.jl) | Julia | Fast CUDA.jl based `countmap` of small types e.g. UInt8 |
-| [Parquet writer in Julia](https://github.com/JuliaIO/Parquet.jl) | Julia | I wrote the Parquet writer in pure Julia | 
+| [Parquet writer in Julia](https://github.com/JuliaIO/Parquet.jl) | Julia | I wrote the Parquet writer in pure Julia which was contributed back to Parquet.jl | 
 
 **Other contriutions**: I wrote the parquet writer in Parquet.jl. I have also contributed a fast `countmap` in StatsBase.jl for small type.
 
