@@ -6,7 +6,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 
 | Project | Language | Notes |
 | -- | -- | -- |
-| [`{disk.frame}`](https://github.com/xiaodaigh/disk.frame) | R | {disk.frame} [https://diskframe.com](https://diskframe.com) is the most popular larger-than-RAM data manipulation framework in R. It is also a Top 100 R package by number of Github Stars |
+| [`{disk.frame}`](https://github.com/xiaodaigh/disk.frame) | R | {disk.frame} [https://diskframe.com](https://diskframe.com) is the most popular larger-than-RAM data manipulation framework in R. |
 | [SortingLab.jl](https://github.com/xiaodaigh/SortingLab.jl) | Julia | Some of the _fastest_ sorting algorithms in Julia including faster `String` sorting and `sortperm` (i.e. R's `order`) algorithms |
 | [JDF.jl](https://github.com/xiaodaigh/JDF.jl) | Julia | A fast DataFrames serialization format and package. |
 | [ShortStrings.jl](https://github.com/JuliaString/ShortStrings.jl) | Julia | A package that uses Integer (bits types) to store strings more efficiently. Great for sorting and group-by operations. It's been handed over to the JuliaString org |
