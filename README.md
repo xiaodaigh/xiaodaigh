@@ -18,6 +18,8 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 
 **Other contriutions**: I have also contributed a fast `countmap` in StatsBase.jl for small type.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodaigh)](https://github.com/xiaodaigh/github-readme-stats)
+
 
 #### Social Media & websites 
 
