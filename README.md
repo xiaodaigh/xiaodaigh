@@ -29,6 +29,7 @@ Hi, my name is ZJ. I love contributing to the open-source data science community
 | LinkedIn | [daizj](https://www.linkedin.com/in/daizj/) |
 | Youtube | [Data Science ZJ](https://www.youtube.com/channel/UCKxHtRdtFEPihEjTtjG8Y8w) |
 | |       [Baduk Go Weiqi Ratings](http://daizj.net/baduk-go-weiqi-ratings/) | A ranking list of the professional Go player strengths estimated from the last 365 days of games |
+| |       [Baduk Go Weiqi Ratings2](https://ratings2.shoulderhit.com/) | A ranking list of the professional Go player strengths estimated from the last 365 days of games |
 
 #### Interesting Projects I can no longer find time to maintain
 
